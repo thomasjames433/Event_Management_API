@@ -69,9 +69,9 @@ DELETE - For Users, id= Id of Event
 ## To run the library system:
 
 #### 1. Clone the repository:
-   `git clone "https://github.com/thomasjames433/Hall_Booking_System_Backend.git"`
+   `git clone "https://github.com/thomasjames433/Event_Management_API.git"`
 #### 2. Navigate into the project directory:
-   `cd Hall_Booking_System`
+   `cd Event_Management_API`
 #### 3. Install dependencies:
    - `pip install django`
    - `pip install djangorestframework`
